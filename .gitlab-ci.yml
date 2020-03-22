@@ -1,0 +1,11 @@
+stages:
+  - test
+
+unit_test:
+  stage: test
+  tags:
+    - wct-backend
+    - docker
+  image: $GOGIT_IMAGE:latest
+  script:
+    - go test ./qeutil -cover
