@@ -1,4 +1,4 @@
-module gitlab2.trumptech.com/wct-global/backend/pkg
+module github.com/henrycheung19/pkg
 
 go 1.13
 
