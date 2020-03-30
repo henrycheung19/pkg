@@ -13,6 +13,6 @@ require (
 	github.com/onsi/gomega v1.9.0 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
-	gitlab2.trumptech.com/wct-global/backend/auth-service v0.0.0-20200212064023-5e70a6915819
+	_ gitlab2.trumptech.com/wct-global/backend/auth-service v0.0.0-20200212064023-5e70a6915819
 	golang.org/x/crypto v0.0.0-20200117160349-530e935923ad
 )
